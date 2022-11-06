@@ -17,5 +17,5 @@ public class A {
         return "to String of A";
     }
 
-  
+
 }
