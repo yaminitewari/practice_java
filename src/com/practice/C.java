@@ -1,4 +1,4 @@
-package com.practice.com.practice;
+package com.practice;
 
 import com.practice.A;
 
