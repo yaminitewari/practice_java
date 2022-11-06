@@ -15,4 +15,10 @@ public class A {
     public String toString() {
         return "to String of A";
     }
+
+    //new method
+    public A(int a,int b){
+        System.out.print("parameterized constructor of A");
+
+    }
 }
