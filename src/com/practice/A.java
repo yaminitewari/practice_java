@@ -13,6 +13,7 @@ public class A {
 
     @Override
     public String toString() {
+        System.out.println("Some changes right now on 11/6");
         return "to String of A";
     }
 
