@@ -9,9 +9,7 @@ public class B extends A{
        super(a);
         System.out.print("Constructor of B");
     }
-//    public B(int a,int r) {
-//        System.out.print("Constructor of BBBBBBBBBBB");
-//    }
+
     public static void main(String[] args) {
         B b = new B(10);
     }
