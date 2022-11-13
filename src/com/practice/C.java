@@ -10,6 +10,10 @@ public class B extends A{
         System.out.print("Constructor of B");
     }
 
+    public B(int a, int b) {
+        super(a);
+        System.out.print("Constructor of B to get merge merge issues");
+    }
     public static void main(String[] args) {
         B b = new B(10);
     }
