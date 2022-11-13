@@ -6,10 +6,10 @@ public class A {
 //    public A() {
 //        System.out.print("default constructor of A");
 //    }
-    public A(int a){
-        System.out.print("parameterized constructor of A");
+//     public A(int a){
+//         System.out.print("parameterized constructor of A");
 
-    }
+//     }
 
     @Override
     public String toString() {
